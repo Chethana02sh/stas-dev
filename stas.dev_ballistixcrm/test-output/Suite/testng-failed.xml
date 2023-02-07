@@ -3,17 +3,17 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.crm.ProjectOOPS.CreateEditDeleteProjectOoops">
+      <class name="com.crm.inventoryContacts.CreateEditDeleteContactTest">
         <methods>
           <include name="logoutFromAppln"/>
           <include name="closeDBconfig"/>
           <include name="loginToAppln"/>
-          <include name="createEditDeleteProjectOoops"/>
           <include name="closeTheBrowser"/>
+          <include name="createEditDeleteContactTest"/>
           <include name="launchTheBrowser"/>
           <include name="dbConfig"/>
         </methods>
-      </class> <!-- com.crm.ProjectOOPS.CreateEditDeleteProjectOoops -->
+      </class> <!-- com.crm.inventoryContacts.CreateEditDeleteContactTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
