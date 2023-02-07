@@ -1,0 +1,4 @@
+url https://stas-dev.ballistixcrm.com
+username admin
+password Ehp?fMt8a"v[E@Va
+browser chrome
